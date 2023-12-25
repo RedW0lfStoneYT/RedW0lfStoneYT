@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working for **DupeMC & GlitchMC**
 
-- 🌱 I’m currently learning **UNIX Operation engineering**
+- 🌱 I’m currently learning **Rust 🦀**
 
 - 👨‍💻 Public repos [https://repo.selenadevelopment.com](https://repo.selenadevelopment.com)
 
